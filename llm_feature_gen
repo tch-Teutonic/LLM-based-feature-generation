@@ -1,0 +1,10 @@
+Focus on:
+- Production scale indicators (CGI, locations, effects)
+- Cast star power (A-list actors)
+- Genre patterns (action/sci-fi tend to have higher budgets)
+- Franchise/sequel indicators
+- Plot complexity (multiple locations, large scale)
+
+Return ONLY valid JSON with this structure:
+{"proposed_features": [{"feature": "name", "description": "explanation", "possible_values": ["val1", "val2"]}]}
+"""
